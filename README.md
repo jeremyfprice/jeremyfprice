@@ -6,11 +6,11 @@ I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫
 
 - 👀 I’m interested in educational research and social science research
 - 🌱 I’m currently learning Python, Jinja2, and R
-- 🤔 I'm thinking about community-embedded approaches to equitable and inclusive STEM education and about concerns with the "STEM Career Pipeline"
+- 🤔 I'm thinking about community-embedded approaches to equitable and inclusive STEM education and about concerns around the metaphor of the STEM Career Pipeline
 
 ## Connect with me
 
-<img src="https://img.shields.io/twitter/follow/dr_jfprice?label=@dr_jfprice&style=social" />
+<a href="https://www.twitter.com/dr_jfprice><img src="https://img.shields.io/twitter/follow/dr_jfprice?label=@dr_jfprice&style=social" /></a>
 
 <img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeremyfprice&theme=calm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact" />
 
