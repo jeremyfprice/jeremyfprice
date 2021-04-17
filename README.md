@@ -1,5 +1,3 @@
-<!-- _backgroundColor: red -->
-
 # 👋 Hi, I’m @jeremyfprice
 
 - 👀 I’m interested in educational research and social science research
