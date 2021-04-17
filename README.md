@@ -10,7 +10,7 @@ I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫
 
 ## Connect with me
 
-<a href="https://www.twitter.com/dr_jfprice><img src="https://img.shields.io/twitter/follow/dr_jfprice?label=@dr_jfprice&style=social" /></a>
+<a href="https://www.twitter.com/dr_jfprice"><img src="https://img.shields.io/twitter/follow/dr_jfprice?label=@dr_jfprice&style=social" /></a>
 
 <img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeremyfprice&theme=calm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact" />
 
