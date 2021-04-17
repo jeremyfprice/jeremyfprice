@@ -5,8 +5,7 @@ I am Assistant Professor of Technology, Innovation, and Pedagogy in the [Indiana
 - 👀 I’m interested in educational research and social science research
 - 🌱 I’m currently learning Python, Jinja2, and R
 
-![jeremyfprice's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyfprice&show_icons=true&theme=calm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&layout=compact&theme=calm)](https://github.com/jerermyfprice/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&theme=calm" />
 
 <!---
 jeremyfprice/jeremyfprice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
