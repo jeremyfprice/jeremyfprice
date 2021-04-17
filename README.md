@@ -1,5 +1,5 @@
-<img src="https://photos.app.goo.gl/RrVc7aYmf44fcS6s7&auto=format&fit=crop&w=975&h=300&q=80"/>
-
+<img src="https://raw.githubusercontent.com/jeremyfprice/jeremyfprice/main/IMG_20170926_120428(3).jpg&auto=format&fit=crop&w=975&h=300&q=80"/>
+![GitHub Logo](/images/github-logo.png)
 # 👋 Hi, I’m @jeremyfprice
 
 I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫[Indiana University School of Education-Indianapolis](https://education.iupui.edu/) at [IUPUI](https://www.iupui.edu). I work to ✊engage and build capacity and capital for marginalized and minoritized youth and community to build, strengthen, and sustain an inclusive and just democratic project through research, teaching, and advocacy and collaborative action.
@@ -10,7 +10,7 @@ I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫
 
 ## Connect with me
 
-- :tw
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=white" />
 
 <img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeremyfprice&theme=calm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact" />
 
