@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/jeremyfprice/jeremyfprice/main/githubheader.jpg "Header")](https://some-url.dev/)
 # 👋 Hi, I’m @jeremyfprice
 
 I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫[Indiana University School of Education-Indianapolis](https://education.iupui.edu/) at [IUPUI](https://www.iupui.edu). I work to ✊engage and build capacity and capital for marginalized and minoritized youth and community to build, strengthen, and sustain an inclusive and just democratic project through research, teaching, and advocacy and collaborative action.
