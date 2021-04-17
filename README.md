@@ -8,10 +8,12 @@ I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫
 
 ## Connect with me
 
-![https://github.com/jeremyfprice](https://img.shields.io/badge/github-jeremyfprice-informational?style=flat&logo=github&logoColor=white&color=informational)
+<a href="https://github.com/jeremyfprice">![https://github.com/jeremyfprice](https://img.shields.io/badge/github-jeremyfprice-informational?style=flat&logo=github&logoColor=white&color=informational)</a>
 ![https://www.twitter.com/dr_jfprice](https://img.shields.io/badge/twitter-@dr_jfprice-informational?style=flat&logo=twitter&logoColor=white&color=informational)
 ![https://www.linkedin.com/in/jeremyfprice/](https://img.shields.io/badge/linkedin-jeremyfprice-informational?style=flat&logo=github&logoColor=white&color=informational)
 ![https://www.duolingo.com/profile/jfprice](https://img.shields.io/badge/Duolingo-jfprice-informational?style=flat&logo=github&logoColor=white&color=informational)
+
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 <img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeremyfprice&theme=calm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact" />
 
