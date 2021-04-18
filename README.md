@@ -9,17 +9,19 @@ I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫
 - 🤔 I'm thinking about community-embedded approaches to equitable and inclusive education and about concerns around the metaphor of the STEM Career Pipeline
 - 😄 My pronouns are [he/him/his](https://pronoun.is/he)
 
-## Life as a Bricoleur
+
+## 📎 Life as a Bricoleur
 
 I am not a coding expert, but I am engaging in [bricolage](https://web.mit.edu/allanmc/www/levistrauss.pdf) to research and solve problems of practice and policy.
 
 ### Languages & Tools
-<img src="https://img.shields.io/static/v1?label=python&message=coding&color=informational&style=flat&logo=python" /> <img src="https://img.shields.io/static/v1?label=R&message=coding&color=informational&style=flat&logo=r" /> <img src="https://img.shields.io/static/v1?label=jinja2&message=templating&color=informational&style=flat&logo=jinja" /> <img src="https://img.shields.io/static/v1?label=LaTeX&message=typesetting&color=informational&style=flat&logo=latex" /> <img src="https://img.shields.io/static/v1?label=Yiddish&message=speaking&color=informational&style=flat&logo=duolingo" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="Latex" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" /> <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white" alt="JSON" /> <img src="https://img.shields.io/badge/Yiddish-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Yiddish" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
 
-## Connect with me
-
+## 🍵 Connect with me
 <a href="https://www.twitter.com/dr_jfprice"><img src="https://img.shields.io/static/v1?label=twitter&message=@dr_jfprice&color=blue&style=flat&logo=twitter" /></a> <img src="https://img.shields.io/static/v1?label=linkedin&message=jeremyfprice&color=blue&logo=linkedin&style=flat" /> <img src="https://img.shields.io/static/v1?label=duolingo&message=jeremyfprice&color=blue&logo=duolingo&style=flat" />
+<br />
 
+## 📈 Github Stats
 <img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeremyfprice&theme=calm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact" />
 
 
