@@ -1,12 +1,20 @@
 [![Header](https://raw.githubusercontent.com/jeremyfprice/jeremyfprice/main/githubheader.jpg "Header")](https://some-url.dev/)
-# 👋 Hi, I’m @jeremyfprice
+# 👋 Hi, I’m Jeremy F. Price, PhD
 
 I am 🎓Assistant Professor of Technology, Innovation, and Pedagogy in the 🏫[Indiana University School of Education-Indianapolis](https://education.iupui.edu/) at [IUPUI](https://www.iupui.edu). I work to ✊engage and build capacity and capital for marginalized and minoritized youth and community to build, strengthen, and sustain an inclusive and just democratic project through research, teaching, and advocacy and collaborative action.
 
 - 👀 I’m interested in educational research, social network analysis, and social science research
-- 🌱 I’m engaging in [bricolage](https://web.mit.edu/allanmc/www/levistrauss.pdf) with <img src="https://img.shields.io/static/v1?label=python&message=coding&color=informational&style=flat&logo=python" /> <img src="https://img.shields.io/static/v1?label=R&message=coding&color=informational&style=flat&logo=r" /> <img src="https://img.shields.io/static/v1?label=jinja2&message=templating&color=informational&style=flat&logo=jinja" /> <img src="https://img.shields.io/static/v1?label=LaTeX&message=typesetting&color=informational&style=flat&logo=latex" /> <img src="https://img.shields.io/static/v1?label=Yiddish&message=speaking&color=informational&style=flat&logo=duolingo" />
+- 🌱 I’m learning new tools and practices all the time to improve my [critical praxis](https://sk.sagepub.com/reference/curriculumstudies/n90.xml)
+- 🔎 I'm currently engaging in research and practice around community-engaged culturally-relevant and universally-designed digital learning environments as responses to and pathways for recovery and resilience from the COVID-19 pandemic; incidences of antisemitism in schools; and the impacts of Christian nationalism and Christian normativity on educational policy and practice
 - 🤔 I'm thinking about community-embedded approaches to equitable and inclusive education and about concerns around the metaphor of the STEM Career Pipeline
 - 😄 My pronouns are [he/him/his](https://pronoun.is/he)
+
+## Life as a Bricoleur
+
+I am not a coding expert, but I am engaging in [bricolage](https://web.mit.edu/allanmc/www/levistrauss.pdf) to research and solve problems of practice and policy.
+
+### Languages & Tools
+<img src="https://img.shields.io/static/v1?label=python&message=coding&color=informational&style=flat&logo=python" /> <img src="https://img.shields.io/static/v1?label=R&message=coding&color=informational&style=flat&logo=r" /> <img src="https://img.shields.io/static/v1?label=jinja2&message=templating&color=informational&style=flat&logo=jinja" /> <img src="https://img.shields.io/static/v1?label=LaTeX&message=typesetting&color=informational&style=flat&logo=latex" /> <img src="https://img.shields.io/static/v1?label=Yiddish&message=speaking&color=informational&style=flat&logo=duolingo" />
 
 ## Connect with me
 
