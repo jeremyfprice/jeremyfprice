@@ -21,7 +21,7 @@ I am not a coding expert, but I am engaging in [bricolage](https://web.mit.edu/a
 <br />
 
 ## 📈 Github Stats
-<img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=merko" />
+<img align="center" alt="jeremyfprice's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyfprice&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&layout=compact&theme=calm" />
 
 
 <!---
