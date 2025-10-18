@@ -4,12 +4,6 @@ Faculty Fellow – Community-Engaged Research
 Indiana University Indianapolis  
 [LinkedIn](https://www.linkedin.com/in/jeremyfprice) • [GitHub](https://github.com/jeremyfprice)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0002-6506-3526-green?logo=orcid&style=for-the-badge)](https://orcid.org/0000-0002-6506-3526)  
-[![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DHYBZ2CsAAAAJ&style=for-the-badge)](https://scholar.google.com/citations?user=HYBZ2CsAAAAJ)  
-[![LinkedIn – Jeremy F. Price](https://img.shields.io/badge/LinkedIn-Jeremy%20F.%20Price-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jeremyfprice)  
-[![Community-Engaged Research](https://img.shields.io/badge/Community-Engaged Research-Supported-FF8C00?logo=handshake&logoColor=white&style=for-the-badge)](#)  
-[![AI & Cognitive Anthropology](https://img.shields.io/badge/AI-%26-Cognitive Anthropology-Research-6A5ACD?logo=brain&logoColor=white&style=for-the-badge)](#)
-
 ---
 
 ## About Me  
