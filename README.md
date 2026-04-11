@@ -1,14 +1,14 @@
 # Jeremy Forest Price, PhD
 
-**Associate Professor · Indiana University Indianapolis**  
-Faculty Fellow in Community Engaged Research · Founder, [CEnTRInnovations](https://centrinnovations.github.io)  
-🌐 [jeremyfprice.info](https://jeremyfprice.info)
+**Associate Professor of Technology, Innovation & Pedagogy in Urban Education**  
+Faculty Fellow in Community Engaged Research · Indiana University Indianapolis  
+Founder, [CEnTRInnovations](https://centrinnovations.github.io) · 🌐 [jeremyfprice.info](https://jeremyfprice.info)
 
 ---
 
-I build open tools and frameworks that help universities and communities do better research together — making community-engaged work visible, measurable, and sustained over time. My stack is mostly R and Python, with some JavaScript for interactive tools and dashboards.
+I build open tools and frameworks at the intersection of community-engaged research, educational equity, and data infrastructure. My work asks a persistent question: *whose knowledge is being counted, and whose is being left out?*
 
-The question driving all of it: *whose knowledge is being counted, and whose is being left out?*
+The repositories here span R packages, interactive dashboards, AI pipelines, and web tools — all oriented toward making community-engaged scholarship more visible, more rigorous, and more equitably valued within institutions.
 
 ---
 
@@ -17,46 +17,45 @@ The question driving all of it: *whose knowledge is being counted, and whose is 
 ### Measurement & Infrastructure
 
 **[CEnTR\*IMPACT](https://github.com/CEnTRInnovations/centrimpact)** `R` `Shiny`  
-Equity-centered metrics for community-engaged research. An R package and interactive app that gives faculty and evaluators a replicable framework for assessing reach, complexity, and impact — without flattening what makes CEnR meaningful. In active adoption at UCLA, Duquesne, Purdue, Vanderbilt, and Kansas.
+An equity-centered measurement framework for community-engaged research. The R package and Shiny app give faculty and evaluators a replicable approach for assessing the reach, complexity, and longer-term impact of CEnR — complementing qualitative narrative without replacing it. In active adoption conversations at UCLA, Duquesne, Purdue, Vanderbilt, and Kansas.
 
 **CEnTR\*SEEK** `Python` `LLM`  
-Tree-of-Thought AI pipeline for identifying community-engaged research activity in institutional text at scale. Helps campuses see and document work that typically goes uncounted in annual review systems.
+Tree-of-Thought AI pipeline for identifying community-engaged research activity in institutional text at scale — helping campuses document work that typically goes uncounted.
 
 **CEnTR\*MAP** `R` `JavaScript`  
-Culturally responsive asset mapping platform for visualizing community-engaged research networks across partner institutions.
+Culturally responsive asset mapping platform for identifying and visualizing community-engaged research networks across partner institutions.
 
 ### Data & Analysis
 
-**[SCOscore](https://github.com/jeremyfprice/scoscores)** `R` `Open Data`  
-School Corporation Opportunity Score — built to identify unrealized potential rather than failure. Uses open Indiana state data to foreground structural conditions and guide more equitable resource allocation. Counterfactual analysis included.
+**[SCOscore](https://github.com/jeremyfprice/scoscores)** `R`  
+School Corporation Opportunity Score — built to surface unrealized potential rather than catalogue failure. Uses open Indiana state data to foreground structural conditions and guide more equitable partnership and resource allocation.
 
-**[CSAIS Community Typology Explorer](https://github.com/jeremyfprice/csais-dashboard)** `R` `Shiny` `Census`  
+**[CSAIS Community Typology Explorer](https://github.com/jeremyfprice/csais-dashboard)** `R` `Shiny`  
 Dashboard mapping antisemitism patterns across 577 U.S. communities and 1,369 school-based incidents. Constructs ten community typologies from ADL H.E.A.T. Map data and census sources to support context-aware educational response.
 
 ### Tools
 
 **[Hexagonal Thinking](https://centrinnovations.github.io/hexagons)** `JavaScript`  
-Browser-based implementation of hexagonal thinking pedagogy — undo/redo, edge labels, cluster visualization. No install, no login.
+Browser-based implementation of hexagonal thinking pedagogy with undo/redo, edge labels, and cluster visualization. No install required.
 
 ---
 
-## Approach
+## Research Interests
 
-I'm interested in what happens when you take computational methods seriously as tools for equity rather than efficiency. That means:
-
-- Network analysis that surfaces community relationships standard metrics ignore
-- AI pipelines designed from community knowledge outward, not scraped data inward
-- Open, documented, replicable code — so the methods can be interrogated, not just trusted
-
-Most repos include working papers or documentation explaining the framework alongside the code.
+- Community-engaged research infrastructure, metrics, and institutional accountability
+- AI system design grounded in community knowledge
+- Antisemitism, white nationalism, and Christian normativity in educational settings
+- STEM learning trajectories rooted in community identity and purpose
+- Network analysis and geospatial analytics for understanding educational ecosystems
 
 ---
 
-## Stack
+## Teaching
 
-`R` · `Python` · `JavaScript` · `Shiny` · `RStudio/Positron` · `Git`  
-Methods: network analysis · geospatial analytics · LLM pipelines · survey/free-list analysis
+- **EDUC-W 513 · AI Inside Out for Educators** — Graduate course combining critical analysis of AI with hands-on construction; students build an Educator Thought Partner in Python
+- **EDUC-W 550 · Current Technology Trends** — Graduate course on technology and education: the digital divide, disinformation, AI bias, computational thinking
+- **EDUC-W 200 · Teaching with Technology** — Required undergraduate course for all teacher education students at IU Indianapolis
 
 ---
 
-✉️ [jfprice@iu.edu](mailto:jfprice@iu.edu) · Open to collaboration, forks, and questions.
+✉️ [jfprice@iu.edu](mailto:jfprice@iu.edu) · Open to collaboration, questions, and forks.
